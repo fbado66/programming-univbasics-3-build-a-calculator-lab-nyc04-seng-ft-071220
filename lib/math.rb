@@ -20,4 +20,5 @@ end
 
 def square_root(num)
  num ** 0.5
+# Math.sqrt(num)
 end
